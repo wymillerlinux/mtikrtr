@@ -13,4 +13,4 @@ To run, enter the current directory and run:
 `python3 sandbox.py`
 
 If you have any problems, email me or fix it yourself and send in your commits.
-If you would like to added tested equipment, email me too and state your situation.
+If you would like to add tested equipment, email me too and state your situation.
